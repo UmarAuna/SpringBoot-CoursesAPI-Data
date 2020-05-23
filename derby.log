@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat May 23 18:36:03 WAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-429b-2426-0000042b4d68 
+on database directory memory:/Users/umarsaiduauna/Documents/IntelliJ/Java/cousrseapi-data/66587f0f-20a1-4fe9-9de0-b1e1ddf79d4d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+Loaded from file:/Users/umarsaiduauna/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.5+10-b520.30
+user.dir=/Users/umarsaiduauna/Documents/IntelliJ/Java/cousrseapi-data
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 23 19:07:11 WAT 2020:
+Shutting down instance a816c00e-0172-429b-2426-0000042b4d68 on database directory memory:/Users/umarsaiduauna/Documents/IntelliJ/Java/cousrseapi-data/66587f0f-20a1-4fe9-9de0-b1e1ddf79d4d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
